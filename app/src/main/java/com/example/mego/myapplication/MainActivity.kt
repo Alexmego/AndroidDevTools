@@ -1,4 +1,4 @@
-package com.example.zhangming14.myapplication
+package com.example.mego.myapplication
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
