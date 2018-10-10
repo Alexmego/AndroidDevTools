@@ -185,4 +185,4 @@ public class myClass {
 }
 
 ~~~
- #  [ViewPager setPageMargin后横竖屏位置发生偏移](/distribution)
+ #  [ViewPager setPageMargin后横竖屏位置发生偏移](/distribution/ViewPager.md)
