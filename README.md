@@ -186,3 +186,4 @@ public class myClass {
 
 ~~~
  #  [ViewPager setPageMargin后横竖屏位置发生偏移](/distribution/ViewPager.md)
+ #  [Android Studio terminal git log 乱码 解决办法](/distribution/AndroidStudioGit乱码.md)
