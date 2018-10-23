@@ -7,4 +7,5 @@
 + [Android Studio terminal git log 乱码 解决办法](/distribution/AndroidStudioGit乱码.md)
 + [DDMS 单独工具](/distribution/ddms.md)
 + [C++二级指针](/distribution/cPlusPlus指针.md)
++ [Android Studio 仓库设置](/distribution/build.md)
 
